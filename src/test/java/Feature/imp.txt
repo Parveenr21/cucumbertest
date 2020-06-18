@@ -1,0 +1,7 @@
+Feature: Defines what feature you will be testing in the tests below
+
+Given: Tells the pre-condition of the test
+
+And: Defines additional conditions of the test
+
+Then: States the post condition. You can say that it is expected result of the test.
